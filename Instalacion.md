@@ -7,7 +7,6 @@
 ```
 
 npm create nuxt@latest . -- -t v3
-cd erp-frontend
 ```
 
 ## Forzar Node 24
